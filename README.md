@@ -49,6 +49,11 @@ Data Flow <hr>
 * date
 * time
 
+###Util
+# userValidation
+# validPhoneNumber
+# validEmail
+# setUser
 
 <span style="color:#1F75FE;font-weight:500;font-size:20px">
 Data Structure used in your project <hr>
