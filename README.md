@@ -61,9 +61,11 @@ Model : Handles data logic.
 </span>
 
 
+
 <span style="color:#bfff00;font-weight:500;font-size:15px">
 View : It displays the information from the model to the user. 
 </span>
+
 
 
 <span style="color:#bfff00;font-weight:500;font-size:15px">
