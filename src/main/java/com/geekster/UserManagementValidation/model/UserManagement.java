@@ -1,10 +1,16 @@
 package com.geekster.UserManagementValidation.model;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+
 import java.time.LocalDate;
 import java.time.LocalTime;
 
+@Entity
 public class UserManagement {
 
+    @Id
     private int userId;
 
     private String userName;
